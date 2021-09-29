@@ -3,3 +3,5 @@ Space Exploration Architecture --> http://www.spacexarch.com/
 Mars Ice House --> http://www.marsicehouse.com/
 
 Mars related design and architecture --> https://www.dezeen.com/tag/mars/
+
+https://spectrum.ieee.org/engineers-and-architects-are-already-designing-lunar-habitats
